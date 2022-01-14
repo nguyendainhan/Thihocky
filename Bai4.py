@@ -1,0 +1,7 @@
+tenvaid=input("Ten va ID:")
+print("Tên và ID",tenvaid)
+values=input("Nhập vào chuỗi ký tự:")
+l=values.split(",")
+t=tuple(l)
+print (l)
+print (t)
